@@ -1,4 +1,8 @@
 **3D Object Localization Initial Approaches**
+Contributers
+
+Mert İlik - https://github.com/mertilik
+Süleyman Barış Eser - https://github.com/suleymanbariseser
 
 ---
 
